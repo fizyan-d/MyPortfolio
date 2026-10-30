@@ -38,4 +38,4 @@ I am a curious developer with experience collaborating alongside industry profes
 
 ### Connect
 
-* **Portfolio Website:** [fizyan.vercel.app](https://fizyan.vercel.app)
+* **Common Link Tree:** [fizyan.vercel.app](https://fizyan.vercel.app)
