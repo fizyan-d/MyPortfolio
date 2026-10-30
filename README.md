@@ -1,33 +1,41 @@
 # MyPortfolio
-This is the portfolio which i will be creating while my Portfolio development class
-#About Me 
-Hey! I am Mohammad Fiziyan Dhada currently studing AIML in Reva university.
-I am a very curious personal which has experience working with many co-orporate
-working professionsals in certain fields like ML-modelling,Agentic AI
-and many other domains.
-##Skills
-C
-Java
-Python
-HTML,CSS,JavaScript
-MySQL
 
-##Projecs
+This repository contains the source code for my personal portfolio, developed during my Portfolio Development coursework.
 
-#ArchForge
-A AWS Bedrock agents based orchestrating Multiagent website which is specially designed for solving the problems of Indian Architecturers
-This website has been a very big success for me as it won 1st price in multiple hackathon
+---
 
-#Aquasense
-A IOT based Water management system for house holds for automating each an every particular problems which is faced by house holds in terms of 
-water distribution and management system
-It has Multiple sensors like Flow sensors, turbidity sensor, Laser receiver and emitting module, Ultrasonic sensor,LCD , ESP32 ,etc. This all things
-were connect together code was uploaded to the board and all the things were connect with the cloud using Blynk Console and then Using the api of those Blynk sensor Data 
-I made a web app in which i recently introduced a Regression ML- Model of leakage calculation.
+### About Me
 
-#Sehha
-It is a Microsoft Foundry based Agentic AI webapp which has multiple which solves medical related problems .
-it Acts as a Orchestrator for all type of disease.
+Hey! I am **Mohammad Fiziyan Dhada**, currently studying **AI & ML at REVA University**.  
+I am a curious developer with experience collaborating alongside industry professionals across machine learning modeling, agentic AI architectures, full-stack systems, and IoT prototyping.
 
-LinkTree
-For more detailed information about me you can refer this website --> fizyan.vercel.app
+---
+
+### Skills
+
+* **Languages:** C, Java, Python, JavaScript
+* **Frontend & Backend:** HTML5, CSS3, Modern Web Frameworks
+* **Database & Cloud:** MySQL, Blynk IoT Console
+
+---
+
+### Projects
+
+#### 1. ArchForge
+* **Overview:** A multi-agent orchestration platform built with AWS Bedrock agents tailored to address feasibility and spatial workflow challenges for Indian architects.
+* **Recognition:** Awarded 1st place across multiple hackathons.
+
+#### 2. AquaSense
+* **Overview:** An end-to-end IoT water management system designed for household automation and consumption monitoring.
+* **Hardware & Cloud:** Powered by an ESP32 integrated with flow sensors, turbidity sensors, laser transmitter/receiver modules, and ultrasonic sensors connected via the Blynk IoT Cloud API.
+* **Intelligence:** Features a dedicated web dashboard incorporating a regression ML model for real-time leakage detection and estimation.
+
+#### 3. Sehha
+* **Overview:** An agentic healthcare application built on Microsoft Foundry.
+* **Architecture:** Operates as a multi-agent orchestrator providing intelligent assistance across medical domains.
+
+---
+
+### Connect
+
+* **Portfolio Website:** [fizyan.vercel.app](https://fizyan.vercel.app)
